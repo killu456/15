@@ -6,7 +6,7 @@ let Data = 0
 
 let players = 0
 
-let steps = 4;
+let steps = 100;
 let status = 2;
 let Time = '';
 let Step = 0
